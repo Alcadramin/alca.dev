@@ -1,6 +1,6 @@
 baseURL = "https://alca.dev"
 theme = "risotto" # With custom Tokyo Night colorscheme
-title = "Berkcan Uçan (Alcadramin)"
+title = "hello@alca.dev"
 author = "Berkcan Uçan (Alcadramin)"
 copyright = "© Berkcan Uçan (Alcadramin)"
 paginate = 3
@@ -34,7 +34,7 @@ url = "https://github.com/Alcadramin"
 [[params.socialLinks]]
 icon = "fas fa-envelope"
 title = "Email"
-url = "mailto:hi@alca.dev"
+url = "mailto:hello@alca.dev"
 
 [menu]
 
@@ -43,6 +43,13 @@ url = "mailto:hi@alca.dev"
     name = "GPG"
     url = "/gpg/"
     weight = 10
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Posts"
+    url = "/post/"
+    weight = 5
+
 
 [taxonomies]
 category = "categories"

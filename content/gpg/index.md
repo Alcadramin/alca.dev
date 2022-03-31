@@ -1,7 +1,7 @@
 +++
 title = "My Public GPG Key"
 date = "2022-03-31"
-aliases = ["gpg", "gpg-key"]
+tags = ["gpg"]
 +++
 
 <hr />

@@ -1,20 +1,18 @@
 +++
-tags = [
-  "alcadramin",
-  "alca", 
-  "alca.dev", 
-  "Berkcan Ucan", 
-  "Berkcan Uçan",
-  "home",
-  "index",
-  "javascript",
-  ]
+tags = ["home", "index", "alcadramin", "alca", "alca.dev", "Berkcan Uçan"]
 title = "Hello! My name is Berkcan 👋"
 +++
 
-## Brief info about me
+## Short story:
+<hr />
 
-I'm mainly a Javascript developer and I love coding with Javascript. I have good experience with Vue.js, Nuxt, Svelte and React, worked with them in many projects in the past. I also have good experience with C++ and Python.
+> **For short** - Friendly neighborhood developer.
+
+I started programming in high school with Lua (Modder here) learned C++ at collage nowadays I'm mainly a Javascript developer and I love coding with Javascript. 
+
+I'm mostly working with with Vue.js and React - Express or Nest. I also have good experience with C++ and Python for Machine Learning sugar.
+
+I do sometimes play with weird languages such as brainf*ck or underrated ones like nim or ruby.
 
 Besides coding skills I've good experience with Databases, CI/CD, Docker, Serverless and all \*nix related stuff that you can think of.
 
