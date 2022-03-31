@@ -3,7 +3,7 @@ tags = ["home", "index", "alcadramin", "alca", "alca.dev", "Berkcan Uçan"]
 title = "Hello! My name is Berkcan 👋"
 +++
 
-## Short story:
+## Who am I 👨‍💻
 <hr />
 
 > **For short** - Friendly neighborhood developer.
