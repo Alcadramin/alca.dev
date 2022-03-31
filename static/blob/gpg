@@ -1,14 +1,3 @@
-+++
-title = "My Public GPG Key"
-date = "2022-03-31"
-tags = ["gpg"]
-+++
-
-<hr />
-
-> **View Raw:** [hello@alca.dev](/blob/gpg)
-
-```GPG
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEYkXuxxYJKwYBBAHaRw8BAQdA09ZxPdZfwXPJsv4v59BImLQ7DbUHdMfxfFa5
@@ -22,4 +11,3 @@ EGdWZofKpkAz+IkA/Rm6S4wQqWN/YOMyiiix6i++ToVehsswRgrM8G5KsGfxAQCr
 1B/8RPEV2uevgoo0e+yFGEfGNq+B/R2CJsydHgfnDw==
 =YLW3
 -----END PGP PUBLIC KEY BLOCK-----
-```
