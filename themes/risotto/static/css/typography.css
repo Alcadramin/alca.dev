@@ -52,7 +52,7 @@ h3:before,
 h4:before, 
 h5:before, 
 h6:before {
-    color: var(--bright-bg);
+    color: var(--bright-red);
 }
 
 h1:first-child {
@@ -94,11 +94,11 @@ ol ol {
 
 ul li::marker {
     content: '∗\00A0';
-    color: var(--bright-bg);
+    color: var(--bright-red);
 }
 
 ol li::marker {
-    color: var(--bright-bg);
+    color: var(--bright-red);
 }
 
 dt {
@@ -129,7 +129,7 @@ blockquote::before {
     position: absolute;
     left: -1.5rem;
     content: ">";
-    color: var(--bright-bg);
+    color: var(--bright-red);
 }
 
 .twitter-tweet::before {
@@ -145,7 +145,7 @@ kbd,
 samp {
     background: var(--dark-bg) !important;
     font-family: var(--font-monospace);
-    color: var(--bright-bg);
+    color: var(--white);
 }
 
 pre {
@@ -164,7 +164,7 @@ strong {
 ::selection,
 mark {
     background-color: var(--yellow);
-    color: var(--bg);
+    color: var(--white);
 }
 
 /* Other typographic elements */
@@ -175,7 +175,7 @@ hr {
 
 hr:after {
     content: '---';
-    color: var(--bright-bg);
+    color: var(--bright-red);
 }
 
 
