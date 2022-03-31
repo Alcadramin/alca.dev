@@ -22,7 +22,7 @@ mode = "dark-mode"
 
 # Sidebar: about/bio
 [params.about]
-title = "Hello! My name is Berkcan 👋"
+title = "👀"
 description = "I am a Full Stack Engineer 📚, Linux enthusiast 🔧 and a beginner composer 🎹 from Turkey!"
 logo = ""
 
@@ -39,9 +39,9 @@ url = "mailto:hi@alca.dev"
 [menu]
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "gpg"
+    name = "GPG"
+    url = "/gpg/"
     weight = 10
 
 [taxonomies]
