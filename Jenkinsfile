@@ -12,9 +12,9 @@ pipeline {
 
     stage ('Deploy') {
       steps {
+        echo "${ALCA_DEPLOY_PATH}"
         sshagent(credentials: ['scarlet']) {
-          sh 'ssh -v $SCARLET_URI'
-          sh 'rsync -r "$WORKSPACE/public/" $ALCA.DEV_DEPLOY_PATH'
+          sh 'rsync -avz -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" --progress -r "$WORKSPACE/public/" ${SCARLET_URI}:${ALCA_DEPLOY_PATH}'
         }
       }
     }
