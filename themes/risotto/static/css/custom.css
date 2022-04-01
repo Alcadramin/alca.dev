@@ -1,1 +1,14 @@
-/* Override this file to customise the theme's CSS for your site */
+.credits {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.credits > .powered-by {
+  flex-shrink: 0;
+}
+
+.credits > .source {
+  flex-shrink: 0;
+}
