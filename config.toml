@@ -1,6 +1,6 @@
 baseURL = "https://alca.dev"
 theme = "risotto" # With custom Tokyo Night colorscheme
-title = "hello@alca.dev"
+title = "Alcadramin"
 author = "Berkcan Uçan (Alcadramin)"
 copyright = "© Berkcan Uçan (Alcadramin)"
 paginate = 3
