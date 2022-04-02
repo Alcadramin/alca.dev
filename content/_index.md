@@ -21,5 +21,6 @@ Besides coding skills I've good experience with Databases, CI/CD, Docker, Server
 **I am currently working as Full Stack Engineer at [Jotform](https://www.jotform.com).**
 
 ## What is in here?
+<hr />
 
 > My logs about random tech stuff 👨‍💻
