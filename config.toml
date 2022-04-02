@@ -24,7 +24,7 @@ mode = "dark-mode"
 # Sidebar: about/bio
 [params.about]
 title = "👀"
-description = "I am a Full Stack Engineer 📚, Linux enthusiast 🔧 and a beginner composer 🎹 from Turkey!"
+description = "Welcome! 🖖 I am Berkcan. Full Stack Engineer & Linux Enthusiast. I have a passion for discovering and tinkering with bleeding-edge tech. "
 logo = ""
 
 [[params.socialLinks]]

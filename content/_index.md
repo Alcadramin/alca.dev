@@ -1,12 +1,12 @@
 +++
 tags = ["home", "index", "alcadramin", "alca", "alca.dev", "Berkcan Uçan"]
-title = "Hello! My name is Berkcan 👋"
+title = "alca.dev"
 +++
 
 ## Who am I 👨‍💻
 <hr />
 
-> **For short** - Friendly neighborhood developer.
+> Friendly neighborhood developer.
 
 I started programming in high school with Lua (Modder here) learned C++ at collage nowadays I'm mainly a Javascript developer and I love coding with Javascript. 
 
@@ -19,3 +19,7 @@ Besides coding skills I've good experience with Databases, CI/CD, Docker, Server
 <hr />
 
 **I am currently working as Full Stack Engineer at [Jotform](https://www.jotform.com).**
+
+## What is in here?
+
+> My logs about random tech stuff 👨‍💻
