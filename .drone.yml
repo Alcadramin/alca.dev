@@ -16,15 +16,15 @@ steps:
     extended: true
 
 - name: Deploy
-  image: appleboy/drone-scp
-  settings:
-    host: 
-      from_secret: SCARLET_HOST
-    user: 
-      from_secret: SCARLET_USER
-    password:
+  image: alpine:latest
+  commands:
+    - apk add --no-cache openssh-client ca-certificates bash
+    - apk add rsync
+    - eval `ssh-agent -s`
+    - echo "$KEY" | ssh-add -
+    - mkdir -p ~/.ssh
+    - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
+    - rsync -avzr -e "ssh -p 22" --progress public/ ubuntu@alca.dev:/opt/serve/alca.dev
+  environment:
+    KEY:
       from_secret: SCARLET_KEY
-    port: 22
-    target:
-      from_secret: ALCA_DEPLOY_PATH
-    source: public/*
