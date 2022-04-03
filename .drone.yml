@@ -9,10 +9,11 @@ steps:
 - name: Build
   image: plugins/hugo
   settings:
-    hugo_version: 0.68
+    hugo_version: 0.82.1
     url: https://alca.dev
     output: public/
     validate: true
+    extended: true
 
 - name: Deploy
   image: appleboy/drone-scp
