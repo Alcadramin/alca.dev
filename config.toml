@@ -43,19 +43,25 @@ url = "mailto:hello@alca.dev"
     identifier = "gpg"
     name = "GPG"
     url = "/gpg/"
-    weight = 10
+    weight = 70
 
   [[menu.main]]
     identifier = "post"
     name = "Posts"
     url = "/post/"
-    weight = 5
+    weight = 60
+
+  [[menu.main]]
+    identifier = "tldr"
+    name = "tldr"
+    url = "/tldr/"
+    weight = 50
 
 
 [taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
+category = "Categories"
+tag = "Tags"
+series = "Series"
 
 # For hugo >= 0.60.0, enable inline HTML
 [markup.goldmark.renderer]

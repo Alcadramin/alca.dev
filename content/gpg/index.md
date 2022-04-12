@@ -1,12 +1,11 @@
 +++
 title = "My Public GPG Key"
 date = "2022-03-31"
-tags = ["gpg"]
 +++
 
 <hr />
 
-> **View Raw:** [hello@alca.dev](/blob/gpg)
+> **Raw:** [hello@alca.dev](/blob/gpg)
 
 ```GPG
 -----BEGIN PGP PUBLIC KEY BLOCK-----

@@ -3,7 +3,8 @@ author = "Alcadramin"
 title = "Hack the Box - Writer (Writeup)"
 date = "2021-12-11"
 description = "Hack the Box machine Writer walkthrough."
-tags = ["hackthebox", "hacking", "writer writeup", "sql injection"]
+tags = ["HacktheBox", "Writeup", "SQL Injection", "Hacking"]
+series = ["Dev Blogs"]
 +++
 
 Hello guys! This is my first blog post. I am planning to post **Hack the Box** writeups, Web Dev logs and also my Kaggle journeys. Today I am going to work on [Writer](https://app.hackthebox.com/machines/361).
