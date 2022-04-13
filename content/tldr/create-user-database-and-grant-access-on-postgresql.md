@@ -1,7 +1,7 @@
 +++
 author = "Alcadramin"
 title = "TL;DR; Creating User, Database and Grant Access on PostgreSQL"
-description = "TL;DR; Creating User, Database and Grant Access on PostgreSQL"
+description = "Creating User, Database and Grant Access on PostgreSQL"
 tags = ["PostgreSQL"]
 series = ["TL;DR;"]
 categories = ["TL;DR;"]

@@ -1,7 +1,7 @@
 +++
 author = "Alcadramin"
 title = "TL;DR; 3 Different ways to create an array from 1..N in JavaScript"
-description = "TL;DR; 3 Different ways to create an array from 1..N in JavaScript"
+description = "3 Different ways to create an array from 1..N in JavaScript"
 tags = ["JavaScript"]
 series = ["TL;DR;"]
 categories = ["TL;DR;"]
