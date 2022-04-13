@@ -14,8 +14,16 @@ ignoreErrors = ["error-remote-getjson"]
 # Automatically add content sections to main menu
 sectionPagesMenu = "main"
 
+# Enable robots
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
 [params]
-  mainSections = ["post", "gpg"]
+  mainSections = ["tldr", "post", "gpg"]
 
 [params.theme]
 palette = "tokyonight"
@@ -38,7 +46,6 @@ title = "Email"
 url = "mailto:hello@alca.dev"
 
 [menu]
-
   [[menu.main]]
     identifier = "gpg"
     name = "GPG"
@@ -57,7 +64,6 @@ url = "mailto:hello@alca.dev"
     url = "/tldr/"
     weight = 50
 
-
 [taxonomies]
   category = "Categories"
   tag = "Tags"
@@ -68,7 +74,6 @@ url = "mailto:hello@alca.dev"
 unsafe = true
 
 [privacy]
-
   [privacy.vimeo]
     disabled = false
     simple = true
@@ -87,7 +92,6 @@ unsafe = true
     privacyEnhanced = true
 
 [services]
-
   [services.instagram]
     disableInlineCSS = true
 

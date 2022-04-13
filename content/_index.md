@@ -1,5 +1,8 @@
 +++
 title = "Welcome to alca.dev"
+[sitemap]
+  changefreq = 'never'
+  priority = 1.0
 +++
 
 ## Who am I 👨‍💻
