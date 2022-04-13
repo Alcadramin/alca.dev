@@ -59,7 +59,7 @@ url = "mailto:hello@alca.dev"
 
 
 [taxonomies]
-category = "Categories"
+# category = "Categories"
 tag = "Tags"
 series = "Series"
 
