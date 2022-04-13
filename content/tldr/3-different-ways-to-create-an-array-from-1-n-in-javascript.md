@@ -4,6 +4,7 @@ title = "TL;DR; 3 Different ways to create an array from 1..N in JavaScript"
 description = "TL;DR; 3 Different ways to create an array from 1..N in JavaScript"
 tags = ["JavaScript"]
 series = ["TL;DR;"]
+categories = ["TL;DR;"]
 +++
 
 We need this often, here are 3 snippets that give you the same results.

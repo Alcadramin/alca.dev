@@ -4,6 +4,7 @@ title = "TL;DR; Creating User, Database and Grant Access on PostgreSQL"
 description = "TL;DR; Creating User, Database and Grant Access on PostgreSQL"
 tags = ["PostgreSQL"]
 series = ["TL;DR;"]
+categories = ["TL;DR;"]
 +++
 
 Here is a simple snippet for creating user, database and grant access to that table on PostgreSQL.

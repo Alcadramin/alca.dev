@@ -1,6 +1,6 @@
 baseURL = "https://alca.dev"
 theme = "risotto" # With custom Tokyo Night colorscheme
-title = "Alcadramin"
+title = "Alcadramin's Logs"
 author = "Berkcan Uçan (Alcadramin)"
 copyright = "© Berkcan Uçan (Alcadramin)"
 paginate = 3
@@ -59,9 +59,9 @@ url = "mailto:hello@alca.dev"
 
 
 [taxonomies]
-# category = "Categories"
-tag = "Tags"
-series = "Series"
+  category = "Categories"
+  tag = "Tags"
+  series = "Series"
 
 # For hugo >= 0.60.0, enable inline HTML
 [markup.goldmark.renderer]
