@@ -31,9 +31,10 @@ mode = "dark-mode"
 
 # Sidebar: about/bio
 [params.about]
-title = "👀"
+title = ""
 description = "Welcome! 🖖 I am Berkcan. Full Stack Engineer & Linux Enthusiast. I have a passion for discovering and tinkering with bleeding-edge tech. "
-logo = ""
+keywords = ["alcadramin","alca.dev","berkcan","berkcan ucan","berkcan uçan","blog","web log"]
+logo = "logo.png"
 
 [[params.socialLinks]]
 icon = "fab fa-github"
