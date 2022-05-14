@@ -37,14 +37,19 @@ keywords = ["alcadramin","alca.dev","berkcan","berkcan ucan","berkcan uçan","bl
 logo = "logo.png"
 
 [[params.socialLinks]]
-icon = "fab fa-github"
+icon = "fa-brands fa-github"
 title = "GitHub"
 url = "https://github.com/Alcadramin"
 
 [[params.socialLinks]]
-icon = "fas fa-envelope"
+icon = "fa-solid fa-envelope"
 title = "Email"
 url = "mailto:hello@alca.dev"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-yin-yang"
+title = "Codewars"
+url = "https://codewars.alca.dev"
 
 [menu]
   [[menu.main]]

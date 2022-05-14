@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8"/>
 <link rel="shortcut icon" href="{{ "/logo.png" | absURL }}" type="image/x-icon">
-<meta content="English" name="language" />
+<meta content="en-us" name="language" />
 <meta
   content='{{ if .Params.keywords }}{{ delimit .Params.keywords ", " }}, alcadramin, alca.dev, berkcan ucan, berkcan uçan{{ else }}{{ delimit .Site.Params.about.keywords ", " }}{{ end }}'
   name="keywords" />
@@ -13,10 +13,7 @@
 <meta content="{{ if .Params.description }}{{ if .Params.specification }}{{ .Params.specification }} {{ end }}{{ .Params.description }}{{ else }}{{ .Site.Params.about.description }}{{ end }}" property="og:description" />
 
 <!-- FontAwesome <https://fontawesome.com/> -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
-
-<!-- Academicons <https://jpswalsh.github.io/academicons/> -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.1/css/academicons.min.css" integrity="sha512-b1ASx0WHgVFL5ZQhTgiPWX+68KjS38Jk87jg7pe+qC7q9YkEtFq0z7xCglv7qGIs/68d3mAp+StfC8WKC5SSAg==" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <!-- risotto -->
 <link rel="stylesheet" href="{{ printf "css/colour/%s.css" .Site.Params.theme.palette | absURL }}">
