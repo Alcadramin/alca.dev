@@ -1,6 +1,8 @@
 /* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+
 :root {
-    --font-monospace: "Fira Mono", monospace;
+    --font-monospace: "Space Mono", monospace;
 }
 
 body {
