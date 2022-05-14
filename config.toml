@@ -18,9 +18,8 @@ sectionPagesMenu = "main"
 enableRobotsTXT = true
 
 [sitemap]
-  changefreq = 'monthly'
+  changefreq = 'weekly'
   filename = 'sitemap.xml'
-  priority = 0.5
 
 [params]
   mainSections = ["tldr", "post", "gpg"]
