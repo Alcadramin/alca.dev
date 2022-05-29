@@ -4,10 +4,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8"/>
 <link rel="shortcut icon" href="{{ "/logo.png" | absURL }}" type="image/x-icon">
-<meta content="en-us" name="language" />
 <meta
-  content='{{ if .Params.keywords }}{{ delimit .Params.keywords ", " }}, alcadramin, alca.dev, berkcan ucan, berkcan uçan{{ else }}{{ delimit .Site.Params.about.keywords ", " }}{{ end }}'
+  content='{{ if .Params.keywords }}{{ delimit .Params.keywords ", " }}, {{ end }}{{ delimit .Site.Params.about.keywords ", " }}'
   name="keywords" />
+<meta content="en" property="og:locale" />
 <meta content="https://alca.dev" property="og:url" />
 <meta content="{{ with .Title }}{{ . }} &ndash; {{end}}{{ .Site.Title }}" property="og:title" />
 <meta content="{{ if .Params.description }}{{ if .Params.specification }}{{ .Params.specification }} {{ end }}{{ .Params.description }}{{ else }}{{ .Site.Params.about.description }}{{ end }}" property="og:description" />

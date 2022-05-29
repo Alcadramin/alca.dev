@@ -40,15 +40,16 @@ icon = "fa-brands fa-github"
 title = "GitHub"
 url = "https://github.com/Alcadramin"
 
-[[params.socialLinks]]
-icon = "fa-solid fa-envelope"
-title = "Email"
-url = "mailto:hello@alca.dev"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-yin-yang"
 title = "Codewars"
 url = "https://codewars.alca.dev"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:hello@alca.dev"
 
 [menu]
   [[menu.main]]
