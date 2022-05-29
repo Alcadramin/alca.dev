@@ -24,7 +24,7 @@ steps:
     - echo "$KEY" | ssh-add -
     - mkdir -p ~/.ssh
     - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
-    - rsync -avzr -e "ssh -p 22" --progress public/ ubuntu@alca.dev:/opt/serve/alca.dev
+    - rsync -avzr --delete -e "ssh -p 22" --progress public/ ubuntu@alca.dev:/opt/serve/alca.dev
   environment:
     KEY:
       from_secret: SCARLET_KEY
