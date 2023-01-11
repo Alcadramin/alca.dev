@@ -12,3 +12,7 @@
 .credits > .source {
   flex-shrink: 0;
 }
+
+.credits > .source a {
+  text-decoration: none;
+}

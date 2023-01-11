@@ -1,14 +1,14 @@
 /* Tokyo Night
  * https://github.com/enkia/tokyo-night-vscode-theme
  */
- :root {
+:root {
   --dark-black: #1a1b26;
   --black: #414868;
   --bright-black: #565f89;
-  
+
   --white: #a9b1d6;
   --bright-white: #c0caf5;
-  
+
   --red: #f7768e;
   --green: #73daca;
   --yellow: #e0af68;
@@ -17,7 +17,7 @@
   --cyan: #7dcfff;
   --orange: #ff9e64;
   --gray: #928374;
-  
+
   --bright-red: #f891a4;
   --bright-green: #8fe1d4;
   --bright-yellow: #e6bf86;
