@@ -32,6 +32,6 @@ a.page__logo-inner:active {
 }
 
 .page__logo-inner:after {
-  content: "] $";
+  content: "]$";
   color: var(--bg);
 }
