@@ -1,8 +1,8 @@
 baseURL = "https://alca.dev"
 theme = "risotto" # With custom Tokyo Night colorscheme
-title = "Alcadramin's Logs"
-author = "Berkcan Uçan (Alcadramin)"
-copyright = "Berkcan Uçan (Alcadramin)"
+title = "Berkcan Uçan"
+author = "Berkcan Uçan"
+copyright = "Berkcan Uçan"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -32,7 +32,7 @@ mode = "dark-mode"
 [params.about]
 title = ""
 description = "Welcome! 🖖 I am Berkcan. Full Stack Engineer & Linux Enthusiast. I have a passion for discovering and tinkering with bleeding-edge tech. "
-keywords = ["alcadramin","alca.dev","berkcan","berkcan ucan","berkcan uçan","blog","web log"]
+keywords = ["alcadramin","alca.dev","berkcan","berkcan ucan","berkcan uçan","blog","web log","alca","alca logs"]
 logo = "logo.png"
 
 [[params.socialLinks]]
@@ -66,7 +66,7 @@ url = "mailto:hello@alca.dev"
 
   [[menu.main]]
     identifier = "tldr"
-    name = "tldr"
+    name = "TL;DR;"
     url = "/tldr/"
     weight = 50
 

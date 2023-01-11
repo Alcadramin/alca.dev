@@ -1,7 +1,7 @@
 +++
 author = "Alcadramin"
 title = "TL;DR; Ignore a tracked file in Git without removing it"
-description = "Ignore a tracked file in Git without removing it"
+description = "While there are other ways to ignore a file via Git you may want to ignore a file that you have already checked in. This post shows you how to ignore a file and not remove it."
 tags = "Git"
 series = "TL;DR;"
 categories = "TL;DR;"

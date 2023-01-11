@@ -1,7 +1,7 @@
 +++
 author = "Alcadramin"
 title = "TL;DR; 3 Different ways to create an array from 1..N in JavaScript"
-description = "3 Different ways to create an array from 1..N in JavaScript"
+description = "Learn three different ways to create an array from 1..N in JavaScript."
 tags = "JavaScript"
 series = "TL;DR;"
 categories = "TL;DR;"
@@ -9,7 +9,7 @@ specification = "TL;DR;"
 keywords = ["javascript", "array", "create array from length"]
 +++
 
-We need this often, here are 3 snippets that give you the same results.
+If you are into coding challenges, you will find this very useful. Here are 3 snippets that give you the same results.
 
 ```js
 Array.from({ length: N }, (_, i) => i + 1); // => [1, 2, 3, 4, .., N]

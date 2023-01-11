@@ -1,7 +1,7 @@
 +++
 author = "Alcadramin"
 title = "TL;DR; Creating User, Database and Grant Access on PostgreSQL"
-description = "Creating User, Database and Grant Access on PostgreSQL"
+description = "There are a number of ways to grant access to PostgreSQL. This article will describe the basic ways and come up with an example."
 tags = "PostgreSQL"
 series = "TL;DR;"
 categories = "TL;DR;"
