@@ -2,7 +2,7 @@ tasks:
   - name: Install Hugo dependencies
     before: sudo apt install hugo
     init: echo "Hugo version is `hugo version`"
-    command: hugo server -D -F --baseUrl $(gp url 1337) --liveReloadPort=443 --appendPort=false --bind=0.0.0.0
+    command: hugo server -D -F --baseUrl $(gp url 1313) --liveReloadPort=443 --appendPort=false --bind=0.0.0.0
 ports:
-  - port: 1337
+  - port: 1313
     onOpen: open-preview

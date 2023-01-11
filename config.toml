@@ -31,7 +31,7 @@ mode = "dark-mode"
 # Sidebar: about/bio
 [params.about]
 title = ""
-description = "Welcome! 🖖 I am Berkcan. Full Stack Engineer & Linux Enthusiast. I have a passion for discovering and tinkering with bleeding-edge tech. "
+description = "Welcome! 🖖 I am Berkcan. Full Stack Developer & Linux Enthusiast. I have a passion for discovering and tinkering with bleeding-edge tech. "
 keywords = ["alcadramin","alca.dev","berkcan","berkcan ucan","berkcan uçan","blog","web log","alca","alca logs"]
 logo = "logo.png"
 
@@ -40,6 +40,10 @@ icon = "fa-brands fa-github"
 title = "GitHub"
 url = "https://github.com/Alcadramin"
 
+[[params.socialLinks]]
+icon = "fa-brands fa-spotify"
+title = "Spotify"
+url = "https://open.spotify.com/user/ectheliona?si=93b77000f35c487d"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-yin-yang"
