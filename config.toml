@@ -31,7 +31,7 @@ mode = "dark-mode"
 # Sidebar: about/bio
 [params.about]
 title = ""
-description = "Welcome! 🖖 I am Berkcan. Full Stack Developer & Linux Enthusiast. I have a passion for discovering and tinkering with bleeding-edge tech. "
+description = "Hello! 🖖 I am Berkcan. Full Stack Developer & Linux Enthusiast. I have a passion for discovering and tinkering with bleeding-edge tech. "
 keywords = ["alcadramin","alca.dev","berkcan","berkcan ucan","berkcan uçan","blog","web log","alca","alca logs"]
 logo = "logo.png"
 

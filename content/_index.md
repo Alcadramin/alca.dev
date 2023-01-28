@@ -1,5 +1,5 @@
 +++
-title = "Welcome to Alca's Logs"
+title = ""
 [sitemap]
   changefreq = 'monthly'
 +++
@@ -18,12 +18,10 @@ Besides my coding skills I have a really good relationship with Databases, CI/CD
 
 When I have some free time I usually love entertaining myself at home. I play video games (no sh*t), sometimes cover the musics I like and watch Netflix of course.
 
-<hr />
-
 **I am currently working as Full Stack Developer at [Jotform](https://www.jotform.com).**
 
 ## What is in here?
 
 <hr />
 
-> My logs about random tech stuff 👨‍💻
+My logs about random tech stuff 👨‍💻
