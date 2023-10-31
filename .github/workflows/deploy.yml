@@ -1,0 +1,36 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.82.1'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy to server
+        uses: burnett01/rsync-deployments@6.0.0
+        with:
+          switches: -avzr --delete
+          path: public/
+          remote_path: /opt/alca.dev
+          remote_host: alca.dev
+          remote_user: alca
+          remote_key: ${{ secrets.DEPLOY_KEY }}
