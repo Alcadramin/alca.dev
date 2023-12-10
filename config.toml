@@ -2,7 +2,7 @@ baseURL = "https://alca.dev"
 theme = "risotto" # With custom Tokyo Night colorscheme
 title = "Berkcan Uçan"
 author = "Berkcan Uçan"
-copyright = "Berkcan Uçan"
+#copyright = "Berkcan Uçan"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -31,7 +31,7 @@ mode = "dark-mode"
 # Sidebar: about/bio
 [params.about]
 title = ""
-description = "Hello! 🖖 I am Berkcan. Full Stack Developer & Linux Enthusiast. I have a passion for discovering and tinkering with bleeding-edge tech. "
+description = "Greetings! 🌟 Berkcan here, your friendly neighborhood Full Stack Developer. I have a passion for discovering and tinkering with bleeding-edge tech."
 keywords = ["alcadramin","alca.dev","berkcan","berkcan ucan","berkcan uçan","blog","web log","alca","alca logs"]
 logo = "logo.png"
 

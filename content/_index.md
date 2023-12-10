@@ -4,24 +4,17 @@ title = ""
   changefreq = 'monthly'
 +++
 
-## Who am I 👨‍💻
+# Who am I & What I do 👨‍💻
 
 <hr />
 
-> Friendly neighborhood developer.
+In high school, I dipped my toes into programming with Lua, embracing the role of a modder. College led me to C++, and now, I find joy as a JavaScript developer, infusing warmth into my code.
 
-I started programming in high school with Lua (Modder here) learned C++ at collage nowadays I'm mainly a JavaScript developer and I love coding with JavaScript.
+Currently, my focus revolves around React. Alongside, I delve into Python, reveling in the sweet symphony of Machine Learning. And, just for laughs (and to keep the fridge stocked), I code with PHP because a coder's gotta earn their food somehow! 🍔💻
 
-I am mostly working with with Vue.js and React - Node.js in general these days. I also have good experience with C++ and Python for Machine Learning sugar. I sometimes play with weird languages such as HolyC, brainf\*ck or underrated ones like nim or elixir.
+For whimsy, I explore HolyC, brainf*ck, and gems like nim and elixir. Beyond code, I harmonize with databases, CI/CD, Docker, and the vast universe of Unix.
 
-Besides my coding skills I have a really good relationship with Databases, CI/CD, Docker and anything you can think of Unix. In fact this website is fully automated with [DroneCI](https://www.drone.io/), it's awesome and open source (Apache 2.0) you should check it out.
+In rare leisure moments, my sanctuary is home. There, I dive into video games, vibe with melodies, and binge-watch on Netflix. Oh, and there's always a bit of [anime](https://myanimelist.net/animelist/Alcadramin) in the mix.
 
-When I have some free time I usually love entertaining myself at home. I play video games (no sh*t), sometimes cover the musics I like and watch Netflix of course.
 
-**I am currently working as Full Stack Developer at [Jotform](https://www.jotform.com).**
-
-## What is in here?
-
-<hr />
-
-My logs about random tech stuff 👨‍💻
+Currently crushing it as a **Full Stack Developer** at [Jotform](https://www.jotform.com).

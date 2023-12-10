@@ -1,6 +1,8 @@
+{{ with .Site.Copyright }}
 <p class="copyright">
-  <i class="fa-regular fa-copyright"></i> {{ .Site.Copyright }}
+  <i class="fa-regular fa-copyright"></i> {{ . | markdownify }}
 </p>
+{{ end }}
 <div class="credits">
   <p class="powered-by">
     Made with 🤍 and
