@@ -18,6 +18,7 @@ sectionPagesMenu = "main"
 enableRobotsTXT = true
 
 [sitemap]
+  changefreq = 'monthly'
   filename = 'sitemap.xml'
 
 [params]
@@ -31,7 +32,7 @@ mode = "dark-mode"
 [params.about]
 title = ""
 description = "Greetings! 🌟 Berkcan here, your friendly neighborhood Full Stack Developer. I have a passion for discovering and tinkering with bleeding-edge tech."
-keywords = ["alcadramin","alca.dev","berkcan","berkcan ucan","berkcan uçan","blog","web log","alca","alca logs"]
+keywords = ["alcadramin","berkcan ucan","alca blog","alca"]
 logo = "logo.png"
 
 [[params.socialLinks]]
@@ -42,7 +43,7 @@ url = "https://github.com/Alcadramin"
 [[params.socialLinks]]
 icon = "fa-brands fa-spotify"
 title = "Spotify"
-url = "https://open.spotify.com/user/ectheliona?si=93b77000f35c487d"
+url = "https://open.spotify.com/user/ectheliona"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-yin-yang"
