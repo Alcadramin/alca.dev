@@ -1,7 +1,5 @@
 +++
 title = ""
-[sitemap]
-  changefreq = 'monthly'
 +++
 
 # Who am I & What I do 👨‍💻

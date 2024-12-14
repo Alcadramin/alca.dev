@@ -1,8 +1,6 @@
 +++
 title = "My Public GPG Key"
 date = "2022-03-31"
-[sitemap]
-  changefreq = 'monthly'
 +++
 
 <hr />
