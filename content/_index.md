@@ -15,4 +15,4 @@ For whimsy, I explore HolyC, brainf*ck, and gems like nim and elixir. Beyond cod
 In rare leisure moments, my sanctuary is home. There, I dive into video games, vibe with melodies, and binge-watch on Netflix. Oh, and there's always a bit of [anime](https://myanimelist.net/animelist/Alcadramin) in the mix.
 
 
-Currently crushing it as a **Full Stack Developer** at [Jotform](https://www.jotform.com).
+Currently crushing it as a **Sr. Full Stack Developer** at [Jotform](https://www.jotform.com).
